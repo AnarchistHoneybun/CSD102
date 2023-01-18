@@ -11,6 +11,8 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 * Any code/solution provided here may not be used as reference/copied for submissions, fully or partially.
 * Further usage is governed under the [BSD-3-Clause License](LICENSE).  
 
+### Content
+1. Practice Lab 1 - Ungraded | Introduction to the testing platform. Linear search and addition algorithms
 
 ## Author
 - [@AnarchistHoneybun](https://github.com/AnarchistHoneybun)
