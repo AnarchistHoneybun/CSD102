@@ -13,6 +13,9 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 
 ### Content
 1. Practice Lab 1 - Ungraded | Introduction to the testing platform. Linear search and addition algorithms
+2. Lab 1 - Graded | Beginner assignments, matrix multiplication and palindrome rotation
+3. Lab 2 - Graded | Linked lists, adding two polynomials
+4. Lab 3 - Graded | Stack, converting infix expression to postfix
 
 ## Author
 - [@AnarchistHoneybun](https://github.com/AnarchistHoneybun)
