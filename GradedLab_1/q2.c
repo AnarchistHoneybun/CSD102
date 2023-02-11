@@ -1,3 +1,24 @@
+/*Question: Write a program to check if a palindromic string has been rotated or not. 
+
+Input:
+String
+
+Output:
+YES
+Palindrome before rotation (unique answer)
+OR
+NO
+
+Example:
+
+Input:
+AABCDDCB
+
+Output:
+YES
+ABCDDCBA
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
