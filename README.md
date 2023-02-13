@@ -18,5 +18,5 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 4. Lab 3 - Graded | Stack, converting infix expression to postfix
 
 ## Author
-- [@AnarchistHoneybun](https://github.com/AnarchistHoneybun) 
+- [@AnarchistHoneybun](https://github.com/AnarchistHoneybun) ❤️
 
