@@ -1,3 +1,35 @@
+/*
+
+Question: Given a queue and two integers k and p, take k integers starting 
+from pth element and use another queue to reverse it. Finally append this reversed
+queue to the end of the original queue.
+
+NOTE: Every element in the original queue is distinct. Indexing starts from 1.
+
+Input:
+
+Size N
+Queue of N integers
+p k
+
+Output:
+
+Queue of N+k integers with the required reverse and append operations done.
+
+Example:
+
+Input:
+
+7
+45 32 76 34 23 89 67
+3 4
+
+Output:
+
+45 32 76 34 23 89 67 89 23 34 76
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
