@@ -47,6 +47,7 @@ int lilysHomework(int arr_count, int* arr) {
                 return swapCount;
             }
         }
+        
     }
 
 
