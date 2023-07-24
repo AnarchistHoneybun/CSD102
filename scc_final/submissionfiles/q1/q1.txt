@@ -1,0 +1,19 @@
+Algorithm: The code uses an adjacency list graph representation to store the data input
+by the user, and in this case, the hardcoded data too. Two structs are used, one to 
+store the data of every person in the system, and another to store the nodes for the
+adjacency list(which itself contains a person struct and a pointer).
+
+Every time a new person is created, a struct is created for them and stored in the list.
+When a person registers a complaint, the program creates an edge between the person who 
+registers the complaint and the person against whom the complaint is registered. The
+program determines whether a person is good or bad based on the number of complaints 
+against them, and if they have >=3 complaints, they are classified as bad. This is done 
+during runtime so whenever the number of complaints is updated, the code makes a call to 
+check the good or bad status of the person.
+
+Time and Space complexity: Most of the functions take a linear time to search through the 
+adjacency list, so the time complexity of the code is O(num_people).
+
+The space complexity is also determined by the number of people, since each person is stored 
+as a struct of a definite size.
+

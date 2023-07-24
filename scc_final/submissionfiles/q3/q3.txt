@@ -1,0 +1,12 @@
+Algorithm: The program first constructs a flow network G' from the 
+given directed graph G. Then the Ford-Fulkerson algorithm is applied
+to find the maximum flow (f) in the network. If f is less than k,
+the program dtermines that no solution exists and reports as such.
+Otherwise, k paths are extracted from the graph and edges are removed
+at each step so that no paths have a common edge.
+
+Time and Space complexity: Overall, the time complexity is determined by
+the Ford-Fulkerson algorithm, which can be approximated to O(k*E*f).
+
+The space complexity comes out to O(V^2) due to the storage of the graph
+and flow network.

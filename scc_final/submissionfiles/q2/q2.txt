@@ -1,0 +1,11 @@
+Algorithm: The program uses a simple linear search to determine whether or not
+a given string is a subset of another string. This is done by checking every
+character of the smaller string against the larger string, using the strchr()
+function.
+
+Time and Space complexity: The program checks for m characters in the string
+with length N, and uses linear search to do so. Thus, the time complexity of 
+this process comes out to O(m*N).
+
+Memory for the two strings is allocated dynamically, which comes out to a total
+of m+N characters. Thus, the space complexity is O(m+N).
