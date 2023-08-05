@@ -5,7 +5,7 @@
 #define MAX_NAME_LENGTH 50
 
 struct Person {
-    char name[MAX_NAME_LENGTH]; //pushchecheck2
+    char name[MAX_NAME_LENGTH]; //pushchecheck3
     int num_complaints;
 };
 
